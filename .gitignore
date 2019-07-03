@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+/integration-test/node_modules
+/unit-test/node_modules
 /.pnp
 .pnp.js
 
