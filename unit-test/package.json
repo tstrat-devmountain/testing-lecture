@@ -1,0 +1,13 @@
+{
+  "name": "unit-test",
+  "version": "1.0.0",
+  "description": "Unit Testing",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
